@@ -44,13 +44,13 @@ export default function LandingPage() {
               imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=cd87nh",              imageAlt: "elegant women community gathering social connection"
             },
             {
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=kew1e0",              imageAlt: "women entrepreneurs networking professional growth"
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Ajz6WLUDj1uOeBrQGW186GEG84/uploaded-1773860797431-j8wlld0d.png",              imageAlt: "women entrepreneurs networking professional growth"
             },
             {
               imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Ajz6WLUDj1uOeBrQGW186GEG84/uploaded-1773860693959-qiej361n.png",              imageAlt: "women celebrating success achievements together"
             },
             {
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=b7azvp",              imageAlt: "women's exclusive event networking social"
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Ajz6WLUDj1uOeBrQGW186GEG84/uploaded-1773860806232-qb73eidh.png",              imageAlt: "women's exclusive event networking social"
             },
             {
               imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=41t1td",              imageAlt: "women mentoring growth personal development"
