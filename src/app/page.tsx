@@ -60,7 +60,7 @@ export default function LandingPage() {
             }
           ]}
           buttons={[
-            { text: "Become a Member", href: "#contact" },
+            { text: "Join the Circle", href: "#contact" },
             { text: "Learn More", href: "#about" }
           ]}
           autoplayDelay={5000}
