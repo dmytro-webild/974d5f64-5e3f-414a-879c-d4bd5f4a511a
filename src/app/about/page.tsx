@@ -4,7 +4,7 @@ import { ThemeProvider } from "@/providers/themeProvider/ThemeProvider";
 import NavbarLayoutFloatingOverlay from '@/components/navbar/NavbarLayoutFloatingOverlay/NavbarLayoutFloatingOverlay';
 import MediaAbout from '@/components/sections/about/MediaAbout';
 import FooterBaseReveal from '@/components/sections/footer/FooterBaseReveal';
-import { Instagram, TikTok } from "lucide-react";
+import { Instagram } from "lucide-react";
 
 export default function AboutPage() {
   return (
