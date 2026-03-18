@@ -92,7 +92,7 @@ export default function LandingPage() {
         <ContactCenter
           tag="Join Us"
           title="Become a Member Today"
-          description="Sign up to receive exclusive event invitations and member updates directly to your phone. Get a welcome message from our community the moment you join."
+          description="Gain access to exclusive monthly events and connect with 400+ ambitious women. Sign up to receive exclusive event invitations and member updates directly to your phone. Get a welcome message from our community the moment you join."
           tagIcon={Sparkles}
           tagAnimation="slide-up"
           background={{ variant: "gradient-bars" }}
