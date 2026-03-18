@@ -27,6 +27,7 @@ export default function LandingPage() {
           brandName="Elevé Social Society"
           navItems={[
             { name: "About", id: "/about" },
+            { name: "Events", id: "/events" },
             { name: "Connect", id: "contact" }
           ]}
           button={{
@@ -110,7 +111,7 @@ export default function LandingPage() {
               title: "Community",              items: [
                 { label: "About Us", href: "/about" },
                 { label: "Join Us", href: "#contact" },
-                { label: "Events", href: "#" },
+                { label: "Events", href: "/events" },
                 { label: "Our Values", href: "#" }
               ]
             },
