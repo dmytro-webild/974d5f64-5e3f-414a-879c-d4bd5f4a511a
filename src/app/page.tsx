@@ -80,7 +80,7 @@ export default function LandingPage() {
           metricsAnimation="slide-up"
           useInvertedBackground={false}
           metrics={[
-            { value: "400+", title: "Members" },
+            { value: "300+", title: "Members" },
             { value: "Monthly", title: "Events" },
             { value: "100%", title: "Authentic" },
             { value: "Elevated", title: "Experiences" }
