@@ -47,7 +47,7 @@ export default function LandingPage() {
               imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=kew1e0",              imageAlt: "women entrepreneurs networking professional growth"
             },
             {
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=8lng8q",              imageAlt: "women celebrating success achievements together"
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Ajz6WLUDj1uOeBrQGW186GEG84/uploaded-1773860693959-qiej361n.png",              imageAlt: "women celebrating success achievements together"
             },
             {
               imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=b7azvp",              imageAlt: "women's exclusive event networking social"
