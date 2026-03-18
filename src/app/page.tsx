@@ -26,7 +26,7 @@ export default function LandingPage() {
         <NavbarLayoutFloatingOverlay
           brandName="Elevé Social Society"
           navItems={[
-            { name: "About", id: "/about" },
+            { name: "About", id: "about" },
             { name: "Connect", id: "contact" }
           ]}
           button={{
@@ -61,7 +61,7 @@ export default function LandingPage() {
           ]}
           buttons={[
             { text: "Join the Circle", href: "#contact" },
-            { text: "Learn More", href: "/about" }
+            { text: "Learn More", href: "#about" }
           ]}
           autoplayDelay={5000}
           showDimOverlay={true}
@@ -108,7 +108,7 @@ export default function LandingPage() {
           columns={[
             {
               title: "Community",              items: [
-                { label: "About Us", href: "/about" },
+                { label: "About Us", href: "#about" },
                 { label: "Join Us", href: "#contact" },
                 { label: "Events", href: "#" },
                 { label: "Our Values", href: "#" }
