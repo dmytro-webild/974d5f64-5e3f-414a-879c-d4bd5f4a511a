@@ -25,6 +25,7 @@ export default function AboutPage() {
           brandName="Elevé Social Society"
           navItems={[
             { name: "Home", id: "/" },
+            { name: "Events", id: "/events" },
             { name: "Connect", id: "contact" }
           ]}
           button={{
@@ -59,7 +60,7 @@ We celebrate the woman who knows her worth, the entrepreneur building her empire
               title: "Community",              items: [
                 { label: "About Us", href: "/about" },
                 { label: "Join Us", href: "#contact" },
-                { label: "Events", href: "#" },
+                { label: "Events", href: "/events" },
                 { label: "Our Values", href: "#" }
               ]
             },

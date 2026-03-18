@@ -53,8 +53,8 @@ export default function EventsPage() {
         <NavbarLayoutFloatingOverlay
           brandName="Elevé Social Society"
           navItems={[
-            { name: "About", id: "about" },
-            { name: "Events", id: "events" },
+            { name: "Home", id: "/" },
+            { name: "About", id: "/about" },
             { name: "Connect", id: "contact" }
           ]}
           button={{
@@ -92,7 +92,7 @@ export default function EventsPage() {
                       </div>
                     </div>
                   </div>
-                  <button className="px-6 py-3 bg-primary-cta text-background font-semibold rounded-lg hover:opacity-90 transition-opacity whitespace-nowrap">
+                  <button className="px-6 py-3 bg-primary-cta text-primary-cta-text font-semibold rounded-lg hover:opacity-90 transition-opacity whitespace-nowrap">
                     Register
                   </button>
                 </div>
@@ -102,7 +102,7 @@ export default function EventsPage() {
 
           <div className="mt-16 p-8 bg-card rounded-lg border border-foreground/10 text-center">
             <p className="text-foreground/70 mb-4">Don't see what you're looking for? Members receive exclusive event invitations throughout the year.</p>
-            <a href="/signup" className="inline-block px-6 py-3 bg-secondary-cta text-foreground font-semibold rounded-lg hover:opacity-90 transition-opacity">
+            <a href="/signup" className="inline-block px-6 py-3 bg-secondary-cta text-secondary-cta-text font-semibold rounded-lg hover:opacity-90 transition-opacity">
               Become a Member
             </a>
           </div>
@@ -114,7 +114,7 @@ export default function EventsPage() {
           columns={[
             {
               title: "Community",              items: [
-                { label: "About Us", href: "/#about" },
+                { label: "About Us", href: "/about" },
                 { label: "Events", href: "/events" },
                 { label: "Join Us", href: "/signup" },
                 { label: "Our Values", href: "#" }
