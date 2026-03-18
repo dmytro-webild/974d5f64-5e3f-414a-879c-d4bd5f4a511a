@@ -41,7 +41,7 @@ export default function LandingPage() {
           description="A community designed for women who want to connect, grow, and elevate every area of their lives. Created for ambitious women who value real connection and elevated experiences, our space brings together a select circle for meaningful conversations, unforgettable moments, and a lifestyle rooted in confidence, growth, and authenticity."
           slides={[
             {
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=cd87nh",              imageAlt: "elegant women community gathering social connection"
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Ajz6WLUDj1uOeBrQGW186GEG84/uploaded-1773860850497-f01fawm5.png",              imageAlt: "elegant women community gathering social connection"
             },
             {
               imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Ajz6WLUDj1uOeBrQGW186GEG84/uploaded-1773860797431-j8wlld0d.png",              imageAlt: "women entrepreneurs networking professional growth"
@@ -56,7 +56,7 @@ export default function LandingPage() {
               imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Ajz6WLUDj1uOeBrQGW186GEG84/uploaded-1773860813379-q6s7xcdp.png",              imageAlt: "women mentoring growth personal development"
             },
             {
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=2zwjdp",              imageAlt: "women business professional network community"
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Ajz6WLUDj1uOeBrQGW186GEG84/uploaded-1773860845322-y3boz9ua.png",              imageAlt: "women business professional network community"
             }
           ]}
           buttons={[
