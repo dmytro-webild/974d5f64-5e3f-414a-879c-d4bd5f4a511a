@@ -104,7 +104,7 @@ export default function LandingPage() {
         />
       </div>
 
-      <div id="footer" data-section="footer">
+      <div id="footer" data-section="footer" style={{ backgroundColor: "#6d0a04" }}>
         <FooterBaseReveal
           columns={[
             {
