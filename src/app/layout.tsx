@@ -14,8 +14,10 @@ export const metadata: Metadata = {
   description: 'Join an exclusive community for ambitious Dallas women. Connect, grow, and elevate every area of your life with authentic sisterhood and elevated experiences.',
 };
 
+
 const dmSans = DM_Sans({
-  variable: "--font-dm-sans",  subsets: ["latin"],
+  variable: "--font-dm-sans",
+  subsets: ["latin"],
 });
 
 export default function RootLayout({
