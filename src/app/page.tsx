@@ -39,26 +39,7 @@ export default function LandingPage() {
         <HeroCarouselLogo
           logoText="Elevé Social Society"
           description="A community designed for women who want to connect, grow, and elevate every area of their lives. Created for ambitious women who value real connection and elevated experiences, our space brings together a select circle for meaningful conversations, unforgettable moments, and a lifestyle rooted in confidence, growth, and authenticity."
-          slides={[
-            {
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Ajz6WLUDj1uOeBrQGW186GEG84/uploaded-1773860850497-f01fawm5.png",              imageAlt: "elegant women community gathering social connection"
-            },
-            {
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Ajz6WLUDj1uOeBrQGW186GEG84/uploaded-1773860797431-j8wlld0d.png",              imageAlt: "women entrepreneurs networking professional growth"
-            },
-            {
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Ajz6WLUDj1uOeBrQGW186GEG84/uploaded-1773860693959-qiej361n.png",              imageAlt: "women celebrating success achievements together"
-            },
-            {
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Ajz6WLUDj1uOeBrQGW186GEG84/uploaded-1773860806232-qb73eidh.png",              imageAlt: "women's exclusive event networking social"
-            },
-            {
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Ajz6WLUDj1uOeBrQGW186GEG84/uploaded-1773860813379-q6s7xcdp.png",              imageAlt: "women mentoring growth personal development"
-            },
-            {
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Ajz6WLUDj1uOeBrQGW186GEG84/uploaded-1773860845322-y3boz9ua.png",              imageAlt: "women business professional network community"
-            }
-          ]}
+          slides={[]}
           buttons={[
             { text: "Join the Circle", href: "#contact" },
             { text: "Learn More", href: "/about" }
@@ -74,8 +55,6 @@ export default function LandingPage() {
           description="We are more than a social circle—we are a movement of women committed to authentic connection, personal excellence, and mutual elevation. Each gathering, each conversation, each moment is curated to help you grow, inspire, and thrive alongside women who truly understand your journey. Our community celebrates ambition, authenticity, and the power of sisterhood."
           tag="Our Mission"
           tagIcon={Heart}
-          imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=jposh5"
-          imageAlt="women's community circle connection authentic"
           mediaAnimation="slide-up"
           metricsAnimation="slide-up"
           useInvertedBackground={false}
