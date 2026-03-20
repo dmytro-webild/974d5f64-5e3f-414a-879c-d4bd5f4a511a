@@ -8,7 +8,8 @@ import { Sparkles } from "lucide-react";
 import { useState } from "react";
 
 export default function SignupPage() {
-  const [formData, setFormData] = useState({    firstName: "",    lastName: "",    phone: "",    email: ""
+  const [formData, setFormData] = useState({
+    firstName: "",    lastName: "",    phone: "",    email: ""
   });
 
   const handleInputChange = (e: React.ChangeEvent<HTMLInputElement>) => {
@@ -141,7 +142,7 @@ export default function SignupPage() {
         </div>
       </div>
 
-      <div id="footer" data-section="footer" style={{ backgroundColor: "#6d0a04" }}>
+      <div id="footer" data-section="footer">
         <FooterBaseReveal
           columns={[
             {
