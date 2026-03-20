@@ -46,9 +46,9 @@ export default function SignupPage() {
         <NavbarLayoutFloatingOverlay
           brandName="Elevé Social Society"
           navItems={[
-            { name: "Home", id: "/" },
-            { name: "About", id: "/about" },
-            { name: "Events", id: "/events" }
+            { name: "About", id: "about" },
+            { name: "Events", id: "events" },
+            { name: "Connect", id: "contact" }
           ]}
           button={{
             text: "Home",            href: "/"
@@ -79,7 +79,7 @@ export default function SignupPage() {
                     onChange={handleInputChange}
                     placeholder="Your first name"
                     required
-                    className="w-full px-4 py-3 rounded-lg border border-foreground/20 bg-background text-foreground focus:outline-none focus:border-primary-cta transition-colors"
+                    className="w-full px-4 py-3 rounded-lg border border-foreground/20 bg-background focus:outline-none focus:border-primary-cta transition-colors"
                   />
                 </div>
                 <div>
@@ -92,7 +92,7 @@ export default function SignupPage() {
                     onChange={handleInputChange}
                     placeholder="Your last name"
                     required
-                    className="w-full px-4 py-3 rounded-lg border border-foreground/20 bg-background text-foreground focus:outline-none focus:border-primary-cta transition-colors"
+                    className="w-full px-4 py-3 rounded-lg border border-foreground/20 bg-background focus:outline-none focus:border-primary-cta transition-colors"
                   />
                 </div>
               </div>
@@ -107,7 +107,7 @@ export default function SignupPage() {
                   onChange={handleInputChange}
                   placeholder="(123) 456-7890"
                   required
-                  className="w-full px-4 py-3 rounded-lg border border-foreground/20 bg-background text-foreground focus:outline-none focus:border-primary-cta transition-colors"
+                  className="w-full px-4 py-3 rounded-lg border border-foreground/20 bg-background focus:outline-none focus:border-primary-cta transition-colors"
                 />
               </div>
 
@@ -121,14 +121,14 @@ export default function SignupPage() {
                   onChange={handleInputChange}
                   placeholder="you@example.com"
                   required
-                  className="w-full px-4 py-3 rounded-lg border border-foreground/20 bg-background text-foreground focus:outline-none focus:border-primary-cta transition-colors"
+                  className="w-full px-4 py-3 rounded-lg border border-foreground/20 bg-background focus:outline-none focus:border-primary-cta transition-colors"
                 />
               </div>
 
               <div className="pt-4">
                 <button
                   type="submit"
-                  className="w-full bg-primary-cta text-primary-cta-text font-semibold py-3 rounded-lg hover:opacity-90 transition-opacity"
+                  className="w-full bg-primary-cta text-background font-semibold py-3 rounded-lg hover:opacity-90 transition-opacity"
                 >
                   Join the Circle
                 </button>
@@ -147,7 +147,7 @@ export default function SignupPage() {
           columns={[
             {
               title: "Community",              items: [
-                { label: "About Us", href: "/about" },
+                { label: "About Us", href: "/#about" },
                 { label: "Events", href: "/events" },
                 { label: "Join Us", href: "/signup" },
                 { label: "Our Values", href: "#" }
