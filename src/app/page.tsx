@@ -46,6 +46,8 @@ export default function LandingPage() {
           ]}
           autoplayDelay={5000}
           showDimOverlay={true}
+          logoContainerClassName="text-black"
+          descriptionClassName="text-black"
         />
       </div>
 
