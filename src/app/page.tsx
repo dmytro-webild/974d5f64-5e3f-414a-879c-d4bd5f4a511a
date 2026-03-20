@@ -42,22 +42,22 @@ export default function LandingPage() {
           description="A community designed for women who want to connect, grow, and elevate every area of their lives. Created for ambitious women who value real connection and elevated experiences, our space brings together a select circle for meaningful conversations, unforgettable moments, and a lifestyle rooted in confidence, growth, and authenticity."
           slides={[
             {
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Ajz6WLUDj1uOeBrQGW186GEG84/uploaded-1774024070124-pyygcyul.jpg",              imageAlt: "elegant women community gathering social connection"
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Ajz6WLUDj1uOeBrQGW186GEG84/uploaded-1773860850497-f01fawm5.png",              imageAlt: "elegant women community gathering social connection"
             },
             {
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Ajz6WLUDj1uOeBrQGW186GEG84/uploaded-1774024340124-2z14fpl4.jpg",              imageAlt: "women entrepreneurs networking professional growth"
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Ajz6WLUDj1uOeBrQGW186GEG84/uploaded-1773860797431-j8wlld0d.png",              imageAlt: "women entrepreneurs networking professional growth"
             },
             {
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Ajz6WLUDj1uOeBrQGW186GEG84/uploaded-1774024076883-2zdwi623.jpg",              imageAlt: "women celebrating success achievements together"
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Ajz6WLUDj1uOeBrQGW186GEG84/uploaded-1773860693959-qiej361n.png",              imageAlt: "women celebrating success achievements together"
             },
             {
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Ajz6WLUDj1uOeBrQGW186GEG84/uploaded-1774024318747-ygxi1tiq.jpg",              imageAlt: "women's exclusive event networking social"
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Ajz6WLUDj1uOeBrQGW186GEG84/uploaded-1773860806232-qb73eidh.png",              imageAlt: "women's exclusive event networking social"
             },
             {
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Ajz6WLUDj1uOeBrQGW186GEG84/uploaded-1774024086622-5f9o9u6i.jpg",              imageAlt: "women mentoring growth personal development"
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Ajz6WLUDj1uOeBrQGW186GEG84/uploaded-1773860813379-q6s7xcdp.png",              imageAlt: "women mentoring growth personal development"
             },
             {
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Ajz6WLUDj1uOeBrQGW186GEG84/uploaded-1774024063957-65j6zzhf.jpg",              imageAlt: "women business professional network community"
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Ajz6WLUDj1uOeBrQGW186GEG84/uploaded-1773860845322-y3boz9ua.png",              imageAlt: "women business professional network community"
             }
           ]}
           buttons={[
@@ -104,7 +104,7 @@ export default function LandingPage() {
         />
       </div>
 
-      <div id="footer" data-section="footer" style={{ backgroundColor: "#6d0a04" }}>
+      <div id="footer" data-section="footer">
         <FooterBaseReveal
           columns={[
             {
