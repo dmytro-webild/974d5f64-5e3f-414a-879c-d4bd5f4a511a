@@ -109,7 +109,7 @@ export default function EventsPage() {
         </div>
       </div>
 
-      <div id="footer" data-section="footer" style={{ backgroundColor: "#6d0a04" }}>
+      <div id="footer" data-section="footer">
         <FooterBaseReveal
           columns={[
             {
