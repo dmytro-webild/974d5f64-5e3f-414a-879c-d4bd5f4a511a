@@ -45,13 +45,13 @@ export default function LandingPage() {
               imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Ajz6WLUDj1uOeBrQGW186GEG84/uploaded-1774024070124-pyygcyul.jpg",              imageAlt: "elegant women community gathering social connection"
             },
             {
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Ajz6WLUDj1uOeBrQGW186GEG84/uploaded-1773860797431-j8wlld0d.png",              imageAlt: "women entrepreneurs networking professional growth"
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Ajz6WLUDj1uOeBrQGW186GEG84/uploaded-1774024340124-2z14fpl4.jpg",              imageAlt: "women entrepreneurs networking professional growth"
             },
             {
               imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Ajz6WLUDj1uOeBrQGW186GEG84/uploaded-1774024076883-2zdwi623.jpg",              imageAlt: "women celebrating success achievements together"
             },
             {
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Ajz6WLUDj1uOeBrQGW186GEG84/uploaded-1773860806232-qb73eidh.png",              imageAlt: "women's exclusive event networking social"
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Ajz6WLUDj1uOeBrQGW186GEG84/uploaded-1774024318747-ygxi1tiq.jpg",              imageAlt: "women's exclusive event networking social"
             },
             {
               imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Ajz6WLUDj1uOeBrQGW186GEG84/uploaded-1774024086622-5f9o9u6i.jpg",              imageAlt: "women mentoring growth personal development"
